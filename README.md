@@ -12,9 +12,9 @@ In this lab you will practice creating a simple Java program designed to make us
 
 ## Unit Test
 
-Select a partner from your tribe; You will each write tests for the requirements below, but your partner must develop against your tests and vice versa. Be sure to use the `io.zipcoder.pets` package for your Pet classes to allow tests to execute properly.
+Select a partner from your tribe; You will each write tests for the requirements below, but your partner must develop against your tests and vice versa.
 
-**Hint:** *An easy way to achieve this is for each partner to set up a GitHub repository for this lab, and add the other partner as a collaborator with write access (in the repository settings).*
+**Hint:** *An easy way to achieve this is for each partner to set up a Git.Zipcode.rocks repository for this lab, and add the other partner as a collaborator with write access (in the repository settings).*
 
 ## Instructions
 
